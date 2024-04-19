@@ -1,1 +1,29 @@
+This is a Header as the modules I had were only for markdowns
+============================================================
+
+So for *this* assignment let's play with formatting and lists and upload to GitHub:
+
+1. First line item
+2. Second one containing hyperlink to [google] (https://www.google.com/)
+--* unordered item for the test
+--* and another one
+
+Here is some sample `code` item for the test
+
+And now for the test of footnotes: the The quick brown fox jumps over the lazy dog[^1]
+Some Lorem Ipsum as well.
+
+|Table Title|Table Title2 | Table Title3|
+|-----------|-------------|-------------|
+|2|3|4
+|3|4|5|
+|4|5|6|
+|5|6|7|
+|6|7|8|
+
+Interesting
+************
+
+
+[^1]:This is just a sample footnote
 Adding a readme test
